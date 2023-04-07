@@ -23,6 +23,7 @@ Display all the Transformed images.
 
 ## Program:
 Developed By: Senthil Kumar S
+<br>
 Register Number: 212221230091
 
 ### Original Image
@@ -119,7 +120,7 @@ plt.show()
 ```
 ## Output:
 ### Original Image
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230407148-56296213-b9cf-4a7b-8812-8e7d8edb17a4.png">
+![im1](https://user-images.githubusercontent.com/93860256/230664704-60680692-6751-4810-8b2e-36ef4aff9d61.png)
 
 ### i)Image Translation
 <img width="600" src="https://user-images.githubusercontent.com/93427237/230405553-bdbf48f9-2914-4a2d-ae8e-4691ad7a0401.png">
