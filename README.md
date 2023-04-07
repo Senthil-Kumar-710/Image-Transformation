@@ -41,6 +41,9 @@ plt.axis('off')
 plt.imshow(img)
 plt.show()
 ```
+```py
+rows,cols,dim=img.shape
+```
 
 ### i)Image Translation
 ```py
@@ -51,10 +54,6 @@ translated_img=cv2.warpPerspective(img,M,(cols,rows))
 plt.axis('off')
 plt.imshow(translated_img)
 plt.show()
-```
-
-```py
-rows,cols,dim=img.shape
 ```
 
 ### ii) Image Scaling
