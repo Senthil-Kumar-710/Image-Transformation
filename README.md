@@ -123,23 +123,23 @@ plt.show()
 ![im1](https://user-images.githubusercontent.com/93860256/230664704-60680692-6751-4810-8b2e-36ef4aff9d61.png)
 
 ### i)Image Translation
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230405553-bdbf48f9-2914-4a2d-ae8e-4691ad7a0401.png">
+![im2](https://user-images.githubusercontent.com/93860256/230665041-4bbc389d-3411-498d-91ba-dfe56309e14a.png)
 
 ### ii) Image Scaling
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230405581-d744e036-06d4-437a-8177-e348ae1f217c.png">
+![im3](https://user-images.githubusercontent.com/93860256/230665042-33d3e619-57d2-4ea7-be31-1d895bc97269.png)
 
 ### iii)Image shearing
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230405598-5537f03b-f9a8-43c8-b367-eb51b3ca1875.png">
+![im4](https://user-images.githubusercontent.com/93860256/230665023-5e5edb55-4495-4c3c-aa5e-8da948c0d162.png)
 
 ### iv)Image Reflection
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230406107-741bb81d-dae6-4784-a99c-da12e2ae8765.png">
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230406086-405f6ffe-6b75-4c50-be77-43b38a9bf346.png">
+![im5](https://user-images.githubusercontent.com/93860256/230665029-54a00fb3-ca07-49bf-886d-93a6a00f8577.png)
+![im6](https://user-images.githubusercontent.com/93860256/230665032-8810d67f-4e77-4a6b-a0b5-4e6c51278ea7.png)
 
 ### v)Image Rotation
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230405730-26b893d6-80e4-4162-9f6d-7695d5470593.png">
+![im7](https://user-images.githubusercontent.com/93860256/230665035-48488781-df23-4cb3-ba2f-9d0dd228f1fc.png)
 
 ### vi)Image Cropping
-<img width="600" src="https://user-images.githubusercontent.com/93427237/230405762-ab9abe3e-d33d-43b0-8626-3a89fadac87d.png">
+![im8](https://user-images.githubusercontent.com/93860256/230665038-1fd92f0a-783f-4602-92f9-7b1f71a84907.png)
 
 ## Result: 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
