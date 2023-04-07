@@ -36,7 +36,6 @@ img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 cv2.imshow("Image",img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
 plt.axis('off')
 plt.imshow(img)
 plt.show()
