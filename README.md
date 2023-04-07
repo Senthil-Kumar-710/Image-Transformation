@@ -26,6 +26,7 @@ Developed By: Senthil Kumar S
 Register Number: 212221230091
 
 ### Original Image
+```py
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -38,6 +39,8 @@ cv2.destroyAllWindows()
 plt.axis('off')
 plt.imshow(img)
 plt.show()
+```
+
 ### i)Image Translation
 ```py
 M=np.float32([[1,0,200],
