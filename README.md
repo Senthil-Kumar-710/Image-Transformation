@@ -15,7 +15,7 @@ Scale the image.
 ### Step 4:
 Shear the image.
 ### Step 5:
-Reflect of image.
+Reflect the image.
 ### Step 6:
 Rotate the image & Crop the image.
 ### Step 7:
@@ -133,6 +133,7 @@ plt.show()
 
 ### iv)Image Reflection
 ![im5](https://user-images.githubusercontent.com/93860256/230665029-54a00fb3-ca07-49bf-886d-93a6a00f8577.png)
+<br>
 ![im6](https://user-images.githubusercontent.com/93860256/230665032-8810d67f-4e77-4a6b-a0b5-4e6c51278ea7.png)
 
 ### v)Image Rotation
